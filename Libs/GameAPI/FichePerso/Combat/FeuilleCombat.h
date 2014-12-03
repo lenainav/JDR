@@ -27,6 +27,8 @@ class FeuilleCombat
         De Arbal;
 
 
+        void chargerCorp(std::string path);
+
     protected:
     private:
 };

@@ -6,10 +6,10 @@ Argent::Argent(int po, int pa, int pb, int pc, int pf)
 {
     //ctor
     arg[0] = po;
-    agr[1] = pa;
-    agr[2] = pb;
-    agr[3] = pc;
-    agr[4] = pf;
+    arg[1] = pa;
+    arg[2] = pb;
+    arg[3] = pc;
+    arg[4] = pf;
 }
 
 Argent::~Argent()
