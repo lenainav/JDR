@@ -1,3 +1,22 @@
 # depslib dependency file v1.0
 1333914114 source:c:\users\voyez\documents\jdr\libs\gameapi\main.c
 
+1417548373 source:c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\combat\feuillecombat.cpp
+	"FeuilleCombat.h"
+
+1417644151 c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\combat\feuillecombat.h
+	<string>
+
+1417642378 source:c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\combat\partiecorp.cpp
+	"PartieCorp.h"
+
+1417636134 c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\combat\partiecorp.h
+	<string>
+	<vector>
+
+1417538178 source:c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\ficheperso.cpp
+	"FichePerso.h"
+
+1417644170 c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\ficheperso.h
+	<string>
+

@@ -1,6 +1,7 @@
 #ifndef FEUILLECOMBAT_H
 #define FEUILLECOMBAT_H
 
+#include <string>
 ///Represente la feuille de combat
 
 class FeuilleCombat
@@ -11,12 +12,12 @@ class FeuilleCombat
 
         std::string TypeArmure;
         std::string TypeCasque;
-        Argent CoutArmure;
-        Argent PrixPtRepair;
+        //Argent CoutArmure;
+        //Argent PrixPtRepair;
         int Encombrement;
 
         //Modif d'armure
-        De LameCourtes;
+        /*De LameCourtes;
         De EpeeUM;
         De EpeeDM;
         De MasseUM;
@@ -24,7 +25,7 @@ class FeuilleCombat
         De HacheDM;
         De Hast;
         De Arc;
-        De Arbal;
+        De Arbal;*/
 
 
         void chargerCorp(std::string path);

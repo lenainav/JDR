@@ -34,16 +34,14 @@
 				</Linker>
 			</Target>
 		</Build>
-		<Unit filename="Argent.cpp" />
-		<Unit filename="Argent.h" />
-		<Unit filename="De.cpp" />
-		<Unit filename="De.h" />
 		<Unit filename="FichePerso/Combat/FeuilleCombat.cpp" />
 		<Unit filename="FichePerso/Combat/FeuilleCombat.h" />
 		<Unit filename="FichePerso/Combat/PartieCorp.cpp" />
 		<Unit filename="FichePerso/Combat/PartieCorp.h" />
 		<Unit filename="FichePerso/FichePerso.cpp" />
 		<Unit filename="FichePerso/FichePerso.h" />
+		<Unit filename="Mecaniques/Aleat.cpp" />
+		<Unit filename="Mecaniques/Aleat.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

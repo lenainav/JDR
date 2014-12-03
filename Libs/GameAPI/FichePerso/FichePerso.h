@@ -1,5 +1,7 @@
 #ifndef FICHEPERSO_H
 #define FICHEPERSO_H
+
+#include <string>
 /*
 ///-------Infos sur la structure----///
 
