@@ -5,6 +5,7 @@
 #include <vector>
 
 //class représentant l'aleat dans le jeu
+//key de la forme xDv+a
 
 class Aleat
 {

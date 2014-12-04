@@ -42,6 +42,8 @@
 		<Unit filename="FichePerso/FichePerso.h" />
 		<Unit filename="Mecaniques/Aleat.cpp" />
 		<Unit filename="Mecaniques/Aleat.h" />
+		<Unit filename="Mecaniques/TempsCmbt.cpp" />
+		<Unit filename="Mecaniques/TempsCmbt.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
