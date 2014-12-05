@@ -20,3 +20,17 @@
 1417644170 c:\users\voyez\documents\jdr\libs\gameapi\ficheperso\ficheperso.h
 	<string>
 
+1417644252 source:c:\users\voyez\documents\jdr\libs\gameapi\mecaniques\aleat.cpp
+	"Aleat.h"
+	<cstdlib>
+	<ctime>
+
+1417731347 c:\users\voyez\documents\jdr\libs\gameapi\mecaniques\aleat.h
+	<string>
+	<vector>
+
+1417732856 source:c:\users\voyez\documents\jdr\libs\gameapi\mecaniques\tempscmbt.cpp
+	"TempsCmbt.h"
+
+1417731824 c:\users\voyez\documents\jdr\libs\gameapi\mecaniques\tempscmbt.h
+

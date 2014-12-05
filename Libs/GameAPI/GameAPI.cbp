@@ -40,6 +40,8 @@
 		<Unit filename="FichePerso/Combat/PartieCorp.h" />
 		<Unit filename="FichePerso/FichePerso.cpp" />
 		<Unit filename="FichePerso/FichePerso.h" />
+		<Unit filename="FichePerso/Reputation.cpp" />
+		<Unit filename="FichePerso/Reputation.h" />
 		<Unit filename="Mecaniques/Aleat.cpp" />
 		<Unit filename="Mecaniques/Aleat.h" />
 		<Unit filename="Mecaniques/TempsCmbt.cpp" />
